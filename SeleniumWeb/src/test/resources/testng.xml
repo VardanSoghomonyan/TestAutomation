@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Feature1" parallel="false">
+    <parameters>
+        <parameter name="username" value="testastvac@gmail.com"/>
+        <parameter name="password" value="Aa123456!"/>
+    </parameters>
+    <test name="UnitLevelTest">
+        <classes>
+            <class name="GmailTest"/>
+        </classes>
+    </test>
+</suite>

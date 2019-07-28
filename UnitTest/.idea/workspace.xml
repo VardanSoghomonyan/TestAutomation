@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2ae51fab-293e-4176-a86b-f2878ce87737" name="Default Changelist" comment="" />
+    <list default="true" id="2ae51fab-293e-4176-a86b-f2878ce87737" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../LevelUpPage/LevelUpPage.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SeleniumWeb/SeleniumWeb.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DeleteElementFromArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DeleteElementFromArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestCalculatorMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestCalculatorMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DeleteElementFromArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DeleteElementFromArrayList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestCalculatorMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestCalculatorMethods.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -10,17 +20,57 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestCalculatorMethods.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state>
+              <caret column="25" selection-start-column="25" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/DeleteElementFromArrayList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/TestArrayListElementDeletion.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -29,28 +79,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/DeleteElementFromArrayList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Calculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-121">
-              <caret line="19" column="86" selection-start-line="19" selection-start-column="86" selection-end-line="19" selection-end-column="86" />
+            <state relative-caret-position="270">
+              <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -70,25 +102,45 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/DeleteElementFromArrayList.java" />
         <option value="$PROJECT_DIR$/src/main/java/Calculator.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestCalculatorMethods.java" />
-        <option value="$PROJECT_DIR$/src/main/java/DeleteElementFromArrayList.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestArrayListElementDeletion.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-      </list>
-    </option>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="UnitTest" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="UnitTest" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="UnitTest" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="clean" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="UnitTest" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="install" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="x" value="67" />
-    <option name="y" value="25" />
-    <option name="width" value="1853" />
-    <option name="height" value="1055" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="800" />
+    <option name="height" value="600" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -102,11 +154,6 @@
             <path>
               <item name="UnitTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="UnitTest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="UnitTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="UnitTest" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="UnitTest" type="b2602c69:ProjectViewProjectNode" />
@@ -131,6 +178,13 @@
               <item name="UnitTest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="UnitTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="UnitTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -167,7 +221,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestCalculatorMethods.checkAddition">
+  <component name="RunManager" selected="TestNG.TestArrayListElementDeletion.checkArrayListNegative">
     <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Calculator" />
       <module name="UnitTest" />
@@ -194,8 +248,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestArrayListElementDeletion" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="UnitTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestArrayListElementDeletion" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestArrayListElementDeletion.checkArrayListNegative" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="UnitTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestArrayListElementDeletion" />
+      <option name="METHOD_NAME" value="checkArrayListNegative" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TestArrayListElementDeletion.checkArrayListNegative" />
+        <item itemvalue="TestNG.TestArrayListElementDeletion" />
         <item itemvalue="JUnit.TestCalculatorMethods.checkAddition" />
         <item itemvalue="JUnit.TestCalculatorMethods" />
         <item itemvalue="Application.Calculator" />
@@ -212,97 +291,132 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554199543362</updated>
-      <workItem from="1554199548767" duration="5795000" />
+      <workItem from="1554199548767" duration="10315000" />
+      <workItem from="1554826342228" duration="3770000" />
+      <workItem from="1558434306161" duration="313000" />
+      <workItem from="1558540035205" duration="558000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestCalculatorMethods - 2019.04.02 at 17h 13m 01s.xml">
-      <configuration name="TestCalculatorMethods" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestCalculatorMethods - 2019.04.02 at 17h 14m 47s.xml">
-      <configuration name="TestCalculatorMethods" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestCalculatorMethods - 2019.04.02 at 17h 19m 16s.xml">
-      <configuration name="TestCalculatorMethods" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestCalculatorMethods - 2019.04.02 at 17h 24m 32s.xml">
-      <configuration name="TestCalculatorMethods" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TestCalculatorMethods - 2019.04.02 at 17h 31m 52s.xml">
-      <configuration name="TestCalculatorMethods" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TestCalculatorMethods_checkAddition - 2019.04.02 at 17h 41m 32s.xml">
       <configuration name="TestCalculatorMethods.checkAddition" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="TestArrayListElementDeletion - 2019.04.02 at 19h 35m 23s.xml">
+      <configuration name="TestArrayListElementDeletion" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestArrayListElementDeletion - 2019.04.02 at 19h 35m 57s.xml">
+      <configuration name="TestArrayListElementDeletion" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestArrayListElementDeletion - 2019.04.02 at 19h 36m 19s.xml">
+      <configuration name="TestArrayListElementDeletion" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestArrayListElementDeletion - 2019.04.02 at 19h 36m 34s.xml">
+      <configuration name="TestArrayListElementDeletion" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestArrayListElementDeletion - 2019.04.02 at 19h 38m 40s.xml">
+      <configuration name="TestArrayListElementDeletion" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestArrayListElementDeletion - 2019.04.02 at 19h 39m 21s.xml">
+      <configuration name="TestArrayListElementDeletion" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestArrayListElementDeletion - 2019.04.02 at 19h 47m 04s.xml">
+      <configuration name="TestArrayListElementDeletion" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestArrayListElementDeletion - 2019.04.02 at 19h 47m 40s.xml">
+      <configuration name="TestArrayListElementDeletion" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestArrayListElementDeletion_checkArrayListNegative - 2019.04.28 at 11h 16m 22s.xml">
+      <configuration name="TestArrayListElementDeletion.checkArrayListNegative" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5795000" />
+    <option name="totallyTimeSpent" value="14956000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21306472" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22039072" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.32959184" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32959184" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.32959184" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32891566" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32891566" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5007153" side_tool="true" weight="0.38915664" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32857144" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24964234" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3297568" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.3297568" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Calculator.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestCalculatorMethods.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-121">
-          <caret line="19" column="86" selection-start-line="19" selection-start-column="86" selection-end-line="19" selection-end-column="86" />
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        <state relative-caret-position="375">
+          <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/DeleteElementFromArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/TestCalculatorMethods.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="270">
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestArrayListElementDeletion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

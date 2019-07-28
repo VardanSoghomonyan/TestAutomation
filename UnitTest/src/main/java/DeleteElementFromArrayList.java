@@ -2,8 +2,8 @@ import java.util.ArrayList;
 
 public class DeleteElementFromArrayList {
 
-    ArrayList <Integer> al = new ArrayList<>();
-    al.
-
-
+    public static ArrayList<Integer> insertNumber(ArrayList<Integer> a, int index) {
+        a.remove(index);
+        return a;
+    }
 }
